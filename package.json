@@ -1,0 +1,9 @@
+{
+  "name": "serverless-auth0-authorizer-service",
+  "version": "1.0.0",
+  "description": "Demonstration of protecting API gateway endpoints with auth0",
+  "license": "MIT",
+  "dependencies": {
+    "jsonwebtoken": "^9.0.2"
+  }
+}
